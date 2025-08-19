@@ -45,7 +45,8 @@ pip install -r requirements.txt
 
 ## 使用方法
 
-windows用户推荐直接支行dist目录下的exe文件
+windows用户推荐直接下载python程序打包成的exe可执行文件使用
+下载链接：https://www.doubao.com/drive/s/c7007afb665b4268
 
 
 1. 运行主程序：
